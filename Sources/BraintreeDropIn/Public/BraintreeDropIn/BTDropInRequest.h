@@ -6,7 +6,7 @@
 #import <Braintree/BTVenmoRequest.h>
 #import <Braintree/BTThreeDSecureRequest.h>
 #else
-#import <BraintreeCore/BTPostalAddress.h>
+#import <BraintreeCore/Headers/BTPostalAddress.h>
 #import <BraintreePayPal/BTPayPalRequest.h>
 #import <BraintreeVenmo/BTVenmoRequest.h>
 #import <BraintreeThreeDSecure/BTThreeDSecureRequest.h>
